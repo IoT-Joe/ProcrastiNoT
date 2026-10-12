@@ -16,7 +16,7 @@
 | [ESP32-C3 Super Mini](https://mostelectronic.com/shop/arduino-development-boards/esp32-c3-super-mini-development-module/) | Custom Watch controller module | 1 | $5.25 | $5.25 | [mostelectronics](https://mostelectronic.com/shop/arduino-development-boards/esp32-c3-super-mini-development-module/) |
 | [1.28 in round GC9A01 240x240 SPI](https://microohm-eg.com/round-lcd-module-1-28-inch-240x240-ips-color-with-gc9a01-controller/) | Custom watch display | 1 | $8.60 | $8.60 | [microohm](https://microohm-eg.com/round-lcd-module-1-28-inch-240x240-ips-color-with-gc9a01-controller/) |
 | **Parts subtotal** | — | — | — | **$21.87** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$21.87** | — |
+| **Tax & shipping** | — | — | — | **$0.38** | — |
+| **Total** | — | — | — | **$22.25** | — |
 
-$8.13 left of the tier's funding.
+$7.75 left of the tier's funding.
