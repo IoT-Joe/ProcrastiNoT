@@ -1,6 +1,6 @@
 # ProcrastiNoT 
 --------
-![[Pasted image 20261012040526.png]]
+![Pasted image 20261012040526.png]]
 
 ProcrastiNoT is a RaspberryPi Operated project : basically a 2 part system, Table Deck and watch, aimed at helping high school students managing thier time efficiently.
 ## What it is
