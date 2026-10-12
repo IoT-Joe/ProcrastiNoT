@@ -17,7 +17,7 @@
 | [1.28 in round GC9A01 240x240 SPI](https://microohm-eg.com/round-lcd-module-1-28-inch-240x240-ips-color-with-gc9a01-controller/) | Custom watch display | 1 | $8.60 | $8.60 | [microohm](https://microohm-eg.com/round-lcd-module-1-28-inch-240x240-ips-color-with-gc9a01-controller/) |
 | [Lexar ® High-Performance Micro Card , 633X , 32 GB , V10 , LMS0633032G-BNNNG](https://elghazawy.com/en/product/38074270281772/lexar-high-performance-micro-card-633x-32-gb-v10-lms0633032g-bnnng) | Table Deck Pi Storage | 1 | $8.59 | $8.59 | [ElGhazawy](https://elghazawy.com/en/product/38074270281772/lexar-high-performance-micro-card-633x-32-gb-v10-lms0633032g-bnnng) |
 | **Parts subtotal** | — | — | — | **$30.46** | — |
-| **Tax & shipping** | — | — | — | **$0.38** | — |
-| **Total** | — | — | — | **$30.84** | — |
+| **Tax & shipping** | — | — | — | **$0.00** | — |
+| **Total** | — | — | — | **$30.46** | — |
 
-**$0.84 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$0.46 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
