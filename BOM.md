@@ -17,7 +17,7 @@
 | [1.28 in round GC9A01 240x240 SPI](https://makerselectronics.com/product/tft-spi-interface-lcd-module-2/) | Custom watch display | 1 | $5.73 | $5.73 | [Makerselectronics](https://makerselectronics.com/product/tft-spi-interface-lcd-module-2/) |
 | [Lexar ® High-Performance Micro Card , 633X , 32 GB , V10 , LMS0633032G-BNNNG](https://elghazawy.com/en/product/38074270281772/lexar-high-performance-micro-card-633x-32-gb-v10-lms0633032g-bnnng) | Table Deck Pi Storage | 1 | $8.59 | $8.59 | [ElGhazawy](https://elghazawy.com/en/product/38074270281772/lexar-high-performance-micro-card-633x-32-gb-v10-lms0633032g-bnnng) |
 | **Parts subtotal** | — | — | — | **$27.82** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$27.82** | — |
+| **Tax & shipping** | — | — | — | **$1.53** | — |
+| **Total** | — | — | — | **$29.35** | — |
 
-$2.18 left of the tier's funding.
+$0.65 left of the tier's funding.
